@@ -1,5 +1,5 @@
 # JAVA-OOP-Homework-of-UCSD
-sing google map to demonstrate cities and quake level. The coursera course is provided by UCSD.
+Usinf google map to demonstrate cities and quake level. The coursera course is provided by UCSD.
 
 ## Content(detailed function will be mentioned in the sub folder)
 1. Using google map library to create a world map, marking cities on map.
